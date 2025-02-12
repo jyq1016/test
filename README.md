@@ -1,2 +1,2 @@
 # IPTV
-test ONLY FOR TELECOM
+test ONLY FOR TV
